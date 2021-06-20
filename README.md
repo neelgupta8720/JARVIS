@@ -1,3 +1,3 @@
 # JARVIS
 ### A personal assistant, also referred to as personal aide (PA) or personal secretary (PS), is a job title describing a person who assists a specific person with their daily business or personal tasks.Users can activate smartphone-based virtual assistants like Siri and Google Assistant by holding down the home button on the device. Then you can type in your question or request, and Siri and Google will respond by text. Smart speakers, such as the Amazon Echo can only respond to voice commands.Similarly we tried to replicate this functionality but the difference is it is completely free of cost .
-
+### We are all well aware about  Siri, Google Assistant and many other virtual assistants which are designed to aid the tasks of users in Windows, Android and iOS platforms. But to our surprise, there’s no such virtual assistant available for the paradise of Developers i.e.Windows Platform
